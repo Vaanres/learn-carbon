@@ -5,7 +5,7 @@
     >
     <cv-header-name to="/" prefix="IBM">Carbon </cv-header-name>
     <cv-header-nav>
-      <cv-header-menu-item to="/repos">Repositories</cv-header-menu-item>
+      <cv-header-menu-item to="/repos">Repos</cv-header-menu-item>
     </cv-header-nav>
 
     <template slot="header-global">

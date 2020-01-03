@@ -20,4 +20,8 @@ export default {
 
 <style lang="scss">
 @import "./styles/carbon";
+
+.bx--content {
+  padding: 0px;
+}
 </style>
